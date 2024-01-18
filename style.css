@@ -93,6 +93,7 @@ select {
     margin: 30px auto;
     font-size: 32px;
     color: #fff;
+    text-align: center;
 }
 
 .cost {
